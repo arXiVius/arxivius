@@ -11,9 +11,14 @@
       0 6px 0 #2f8f00,
       0 12px 26px rgba(0, 0, 0, 0.28);
   ">
-    Hey, I’m arXivius
+    Hey, I’m
+    <a href="https://arxivius.github.io"
+       style="color: inherit; text-decoration: none;">
+      arXivius
+    </a>
   </span>
 </h1>
+
 
 <p align="center">
   <strong>Frontend-focused developer</strong> crafting clean, friendly,
